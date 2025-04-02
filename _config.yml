@@ -13,14 +13,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-
-navigation:
-  - name: 自己紹介
-    link: /about/
-  - name: ギャラリー
-    link: /gallery/
-  - name: 作ったもの
-    link: /apps/
+header_pages:
+  - about.md
+  - gallery.md
+  - apps.md
 
 # ローカル環境でも便利な設定
 permalink: /:categories/:title/

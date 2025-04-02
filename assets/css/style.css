@@ -1,0 +1,51 @@
+/* Gallery Grid Layout */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  padding: 2rem 0;
+}
+
+.gallery-item {
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+.gallery-item:hover {
+  transform: translateY(-5px);
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.photo-info {
+  margin-top: 1rem;
+}
+
+.photo-info h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.photo-info p {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* Lightbox Customization */
+.lb-data .lb-caption {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.lb-data .lb-details {
+  width: 100%;
+  text-align: center;
+}

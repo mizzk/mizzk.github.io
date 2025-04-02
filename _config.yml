@@ -1,0 +1,27 @@
+title: Kota Mizutani
+email: kota.mizutani@vision.is.kit.ac.jp
+description: >-
+  趣味の写真や作ったものなどを載せる予定です
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username:  mizzk
+instagram_username: mizzcreate
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
+navigation:
+  - name: 自己紹介
+    link: /about/
+  - name: ギャラリー
+    link: /gallery/
+  - name: 作ったもの
+    link: /apps/
+
+# ローカル環境でも便利な設定
+permalink: /:categories/:title/
+timezone: Asia/Tokyo

@@ -11,7 +11,7 @@ permalink: /
 
 ## コンテンツ
 
-- [About Me](/about/) - 自己紹介とプロフィール
+- [About](/about/) - 自己紹介とプロフィール
 - [Gallery](/gallery/) - 撮影した写真のギャラリー
-- [Apps](/apps/) - 開発したアプリケーションの紹介
+- [Apps](/apps/) - 作ったものの紹介
 

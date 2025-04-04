@@ -33,7 +33,8 @@ function openModal(src, filename) {
     var modalImg = document.getElementById("modalImage");
     var captionDiv = document.getElementById("caption");
     
-    modal.style.display = "block";
+    // modal.style.display = "block";
+    modal.style.display = "flex"; // フレックスボックスで中央揃え
     modalImg.src = src;
     
     // ファイル名からコメントを取得
@@ -72,7 +73,9 @@ window.onclick = function(event) {
 <style>
 .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    /* 以下のように変更します */
+    /* grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); */
+    grid-template-columns: repeat(2, 1fr); /* 2列に設定 */
     gap: 1rem;
     padding: 1rem;
 }
@@ -107,14 +110,14 @@ window.onclick = function(event) {
     height: 100%;
     overflow: auto;
     background-color: rgba(0,0,0,0.9);
-    /* display: flex; */
     align-items: center;
-    justify-content: center;
+    justify-content: center; /* 水平方向の中央揃え */
 }
 
 .modal-card {
     display: flex;
     flex-direction: column;
+    align-items: center; /* 子要素も中央揃え */
     max-width: 90%;
     max-height: 90vh;
     background-color: transparent;
@@ -124,6 +127,7 @@ window.onclick = function(event) {
     max-width: 100%;
     max-height: 80vh;
     object-fit: contain;
+    margin: 0 auto; /* 画像も中央揃え */
 }
 
 .close {

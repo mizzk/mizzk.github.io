@@ -16,7 +16,7 @@ plugins:
 header_pages:
   - about.md
   - gallery.md
-  - apps.md
+  # - apps.md
 
 # ローカル環境でも便利な設定
 permalink: /:categories/:title/

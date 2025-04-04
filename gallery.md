@@ -4,6 +4,8 @@ title: Gallery
 permalink: /gallery/
 ---
 
+これまでに撮影した写真の一部を紹介します．
+
 <div class="gallery">
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/gallery' %}

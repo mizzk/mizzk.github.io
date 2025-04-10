@@ -1,0 +1,14 @@
+- title: "EU2024"
+  description: "ヨーロッパ旅行で撮影した写真"
+  thumbnail: "/assets/img/gallery/eu2024/EU2024-26.jpg"
+  slug: "eu2024"
+
+- title: "京都スナップ"
+  description: "京都の街角で撮影したスナップ写真"
+  thumbnail: "/assets/img/gallery/kyoto-snap/kyoto-snap_01.JPG"
+  slug: "kyoto-snap"
+
+- title: "20mmで撮る京都駅"
+  description: "20mmレンズで撮影した京都駅シリーズ"
+  thumbnail: "/assets/img/gallery/kyoto-station/kyoto-station_01.JPG"
+  slug: "kyoto-station" 

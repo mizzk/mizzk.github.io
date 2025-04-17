@@ -16,13 +16,17 @@ permalink: /
     <div class="content-card">
         <h2>About</h2>
         <p>私についての情報をまとめています．</p>
-        <a href="/about/" class="card-link">詳細を見る →</a>
+        <a href="/about/" class="card-link">Aboutを見る →</a>
     </div>
-    
     <div class="content-card">
         <h2>Gallery</h2>
         <p>これまでに撮影した写真をカテゴリー別にまとめています．</p>
-        <a href="/gallery/" class="card-link">ギャラリーを見る →</a>
+        <a href="/gallery/" class="card-link">Galleryを見る →</a>
+    </div>
+    <div class="content-card">
+        <h2>Apps</h2>
+        <p>個人開発したアプリやプロジェクトを紹介しています．</p>
+        <a href="/apps/" class="card-link">Appsを見る →</a>
     </div>
 </div>
 

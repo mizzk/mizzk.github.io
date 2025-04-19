@@ -7,7 +7,7 @@ permalink: /
 <div class="hero">
     <div class="hero-content">
         <h1>Welcome to My Page</h1>
-        <p class="hero-description">研究・写真・個人開発など，興味のあることをまとめていきます</p>
+        <p class="hero-description">研究・写真・個人開発など，興味のあることなど</p>
     </div>
     <img src="/assets/img/index/home_pc.jpg" alt="サイトの代表画像" class="hero-image">
 </div>

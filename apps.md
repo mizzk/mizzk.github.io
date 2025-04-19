@@ -27,3 +27,12 @@ ADHDの特性上，作業中に気が散りやすく，「今すべきこと」�
 <p align="center">
     <img src="/assets/img/apps/screenshot.png" alt="ADHD向け音声リマインダーアプリのスクリーンショット"/>
 </p>
+
+<p align="center">
+    <a href="/privacy/">プライバシーポリシー</a>
+</p>
+<!-- <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.hocnondubito.taskreminder" target="_blank">
+        <img src="https://play.google.com/intl/en_us/badges/images/generic/ja_badge_web_generic.png" alt="Google Play Store" width="200"/>
+    </a>
+</p> -->

@@ -29,7 +29,7 @@ ADHDの特性上，作業中に気が散りやすく，「今すべきこと」�
 </p>
 
 <p align="center">
-    <a href="/privacy/">プライバシーポリシー</a>
+    <a href="/apps/privacy/">プライバシーポリシー</a>
 </p>
 <!-- <p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.hocnondubito.taskreminder" target="_blank">

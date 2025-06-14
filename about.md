@@ -20,6 +20,9 @@ permalink: /about/
 - [第1回Spatial AI勉強会](https://sainetwork.connpass.com/event/337780/)(2024/12)
     - 「X-maps: Direct Depth Lookup for Event-based Structured Light Systems（CVPRW 2023）」という論文の紹介を行いました．[発表スライドはこちら（SpeakerDeck）](https://speakerdeck.com/spatial_ai_network/x-maps-direct-depth-lookup-for-event-based-structured-light-systems)．
 
+- [情報処理学会コンピュータビジョンとイメージメディア研究会（CVIM）](https://cvim.ipsj.or.jp/index.php?id=cvim242p)(2025/5)
+    - 「イベントカメラ-プロジェクタ系の時間的・空間的キャリブレーション」の題でポスター発表を行いました．
+
 
 # 趣味・その他
 - 写真：高校時代に**県大会1位**，現在も街歩きスナップを続けています．
